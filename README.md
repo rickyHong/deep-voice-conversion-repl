@@ -97,3 +97,5 @@ Net2 contains Net1 as a sub-network.
 ## References
 * ["Phonetic posteriorgrams for many-to-one voice conversion without parallel data training"](https://www.researchgate.net/publication/307434911_Phonetic_posteriorgrams_for_many-to-one_voice_conversion_without_parallel_data_training), 2016 IEEE International Conference on Multimedia and Expo (ICME)
 * ["TACOTRON: TOWARDS END-TO-END SPEECH SYNTHESIS"](https://arxiv.org/abs/1703.10135), Submitted to Interspeech 2017
+
+Good Ref. https://einstein.ai/research/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation
